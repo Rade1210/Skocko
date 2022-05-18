@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Skocko projekat/src"/>
+	<classpathentry kind="lib" path="Skocko projekat/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="Skocko projekat/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="Skocko projekat/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="SkockoApp.jar"/>
+	<classpathentry kind="output" path="Skocko projekat/bin"/>
+</classpath>
